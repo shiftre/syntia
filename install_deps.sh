@@ -38,3 +38,6 @@ python scripts/mk_make.py --python
 cd build
 make -j 5
 make install
+
+
+sudo pip install ordereddict orderedset
